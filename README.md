@@ -26,7 +26,8 @@ ___
 </a> 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374">
   <img src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" style="max-width: 100%;">
-</a> 
+</a>
+<br />
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73">
   <img src="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" style="max-width: 100%;">
 </a> 
@@ -46,3 +47,17 @@ ___
   <img src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;">
 </a> 
 
+### 📫 Get In Touch
+___
+<p>
+  <a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/" rel="nofollow">
+    <img alt="LinkedIn" src="https://camo.githubusercontent.com/b7889c83d645843fb4b515c16813b2405a6d570ce77213c034f616debbcde27e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>  
+  <a href="mailto:agussuandi48@gmail.com">
+    <img alt="Gmail" src="https://camo.githubusercontent.com/79292d3736cce0c7d743a9edc0bafd75da633cdc8b58797329fc9c3f56f9887b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    
+  </a>  
+  <a href="https://instagram.com/agus_suandi" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/ab47b99da365dc719b5a4a733832f505d3d68a0836a08db24ad8b0aa9dbbde74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40616268695f5f313530375f2d4534343035463f7374796c653d666c6174266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@agus_suandi_-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</p>
