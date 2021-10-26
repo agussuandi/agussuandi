@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Tech Stack
 ___
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;"></a></p>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236">
   <img src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width: 100%;">
 </a>
@@ -50,11 +51,13 @@ ___
 ### 📫 Get In Touch
 ___
 <p>
-  <a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/" rel="nofollow" target="_blank">
+  <a href="https://www.linkedin.com/in/agus-suandi-877914176/" rel="nofollow" target="_blank">
     <img alt="LinkedIn" src="https://camo.githubusercontent.com/b7889c83d645843fb4b515c16813b2405a6d570ce77213c034f616debbcde27e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>  
   <a href="mailto:agussuandi48@gmail.com" target="_blank">
     <img alt="Gmail" src="https://camo.githubusercontent.com/79292d3736cce0c7d743a9edc0bafd75da633cdc8b58797329fc9c3f56f9887b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-    
+  </a>
+  <a href="https://www.instagram.com/agus_suandi" rel="nofollow" target="blank">
+    <img src="https://camo.githubusercontent.com/b091cb88e26295fdc73b1f1f91d812216757930cb4d60f7951a07deff2a53fd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </p>
