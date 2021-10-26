@@ -1,4 +1,8 @@
 ### Hi there �![til](https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif){:height="40%" width="40%"}
+
+{:refdef: style="width: 10px; height: 10px"}
+[![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)](./somelink)
+{: refdef}
 ___
 **agussuandi/agussuandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
