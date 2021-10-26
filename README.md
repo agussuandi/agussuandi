@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 ___
 <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+  <a target="_blank" rel="noopener noreferrer" href="https://3.bp.blogspot.com/-0HOgC9oT2fI/WwYUxpvGFRI/AAAAAAALaIY/2xmhov6tkXcPd-veT8bgZll1LpsEieBFgCLcBGAs/s1600/AS0004003_01.gif">
     <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
   </a>
 </p>
