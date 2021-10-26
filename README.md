@@ -1,4 +1,4 @@
-### Hi there �https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif
+### Hi there �![til](https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif)
 ___
 **agussuandi/agussuandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
