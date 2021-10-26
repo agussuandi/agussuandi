@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px" height="50px"></p>
+### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px" height="40px">
 ___
 **agussuandi/agussuandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
