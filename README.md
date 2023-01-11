@@ -2,7 +2,7 @@
 ___
 
 Hi! My name is Agus Suandi, and i'm cat lover. I develop with JS & PHP.
-- 🔭 I’m currently working at Nuclear Energy Regulatory Agency of Indonesia
+- 🔭 I’m currently working at PT. Inti Citra Agung
 - 🌱 I’m currently learning ruby on rails & python
 
 ### 🛠 Tech Stack
